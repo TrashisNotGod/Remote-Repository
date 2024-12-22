@@ -9,7 +9,7 @@
 #include "BXActor.generated.h"
 
 UCLASS()
-class GAME_API ABXActor : public AActor
+class GAME_API ABXActor : public AInterBaseActor
 {
 	GENERATED_BODY()
 	
